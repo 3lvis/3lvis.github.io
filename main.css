@@ -1,12 +1,12 @@
 html, body {
-    background-color: #000000;
+    background-color: #fff;
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
 h1, .main-link {
-    color: #664F66;
+    color: #000;
     font-size: 4.5em;
     text-decoration: none;
 }
@@ -20,24 +20,34 @@ h1, .main-link {
     margin: 0px;
 }
 
-#content {
-    width: 100%;
+#header {
     overflow: hidden;
     min-height: 100%;
     margin: 0px;
 
-    font-family: 'Helvetica';
-    display: table-cell;
-    padding: 5%;
+    font-family: 'Work Sans', sans-serif;    
+    font-weight: 400;
+    padding: 24px 5% 0px 5%;
+    border: 0;
+}
+
+#content {
+    overflow: hidden;
+    min-height: 100%;
+    margin: 0px;
+
+    font-family: 'Work Sans', sans-serif;    
+    font-weight: 300;
+    padding: 0px 5%;
     border: 0;
 }
 
 a {
-    color: #6153C6;
+    color: #1A0FAB;
 }
 
 p {
-    color: #664F66;
-    font-size: 1.7em;
+    color: #000;
+    font-size: 1.6em;
     line-height: 1.5;
 }
