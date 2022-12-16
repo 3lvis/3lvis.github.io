@@ -3,12 +3,13 @@ body {
     height: 100%;
     margin: 0;
     padding: 24px 5% 0px 5%;
-    font-family: 'Work Sans', sans-serif;    
+    font-family: 'Work Sans', sans-serif;
+    line-height: 8px;  
 }
 
 header {
     font-weight: 400;
-    padding: 18px 0;
+    padding: 8px 0 16px 0;
 }
 
 span {
@@ -18,11 +19,11 @@ span {
 
 section {
     font-weight: 300;
-    padding: 18px 0;
+    padding: 0;
 }
 
 footer {
-    padding: 18px 0;
+    padding: 16px 0;
 }
 
 a {
@@ -32,5 +33,5 @@ a {
 p {
     color: #fff;
     font-size: 1.6em;
-    line-height: 32px;
+    line-height: 16px;
 }
