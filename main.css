@@ -1,12 +1,12 @@
 html, body {
-    background-color: #fff;
+    background-color: #70727B;
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
 h1, .main-link {
-    color: #000;
+    color: #fff;
     font-size: 4.5em;
     text-decoration: none;
 }
@@ -18,6 +18,11 @@ h1, .main-link {
     min-height: 100%;
     padding: 0px;
     margin: 0px;
+}
+
+span {
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: 2.2em;
 }
 
 #header {
@@ -43,11 +48,11 @@ h1, .main-link {
 }
 
 a {
-    color: #1A0FAB;
+    color: #0000FF;
 }
 
 p {
-    color: #000;
+    color: #fff;
     font-size: 1.6em;
     line-height: 1.5;
 }
