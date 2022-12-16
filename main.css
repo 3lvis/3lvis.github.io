@@ -4,7 +4,6 @@ body {
     margin: 0;
     padding: 24px 5% 0px 5%;
     font-family: 'Work Sans', sans-serif;
-    line-height: 8px;  
 }
 
 header {
@@ -33,5 +32,4 @@ a {
 p {
     color: #fff;
     font-size: 1.6em;
-    line-height: 16px;
 }
