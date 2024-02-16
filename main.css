@@ -1,5 +1,5 @@
 body {
-    background-color: #70727B;
+    background-color: #fff;
     height: 100%;
     margin: 0;
     padding: 24px 5% 0px 5%;
@@ -26,10 +26,10 @@ footer {
 }
 
 a {
-    color: #0000FF;
+    color: #1F32E3;
 }
 
 p {
-    color: #fff;
+    color: #1F32E3;
     font-size: 1.6em;
 }
